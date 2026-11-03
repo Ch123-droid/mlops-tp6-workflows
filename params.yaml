@@ -4,7 +4,7 @@ preparation:
 
 entrainement:
   n_estimators: 300    # Nombre d'arbres
-  max_depth: 2        # Profondeur maximale
+  max_depth: 12        # Profondeur maximale
   random_state: 42     # Graine du modèle
 
 validation:
